@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D237877C2B73A2BC006790A6 /* facebook.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = facebook.html; sourceTree = "<group>"; };
+		D237877E2B73A2E0006790A6 /* instagram.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = instagram.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D23787732B73A1F9006790A6 = {
+			isa = PBXGroup;
+			children = (
+				D237877D2B73A2C7006790A6 /* Instagram */,
+				D237877A2B73A236006790A6 /* Facebook */,
+			);
+			sourceTree = "<group>";
+		};
+		D237877A2B73A236006790A6 /* Facebook */ = {
+			isa = PBXGroup;
+			children = (
+				D237877C2B73A2BC006790A6 /* facebook.html */,
+			);
+			path = Facebook;
+			sourceTree = "<group>";
+		};
+		D237877D2B73A2C7006790A6 /* Instagram */ = {
+			isa = PBXGroup;
+			children = (
+				D237877E2B73A2E0006790A6 /* instagram.html */,
+			);
+			path = Instagram;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D23787742B73A1F9006790A6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = D23787772B73A1F9006790A6 /* Build configuration list for PBXProject "WebLab2" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D23787732B73A1F9006790A6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D23787782B73A1F9006790A6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D23787792B73A1F9006790A6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D23787772B73A1F9006790A6 /* Build configuration list for PBXProject "WebLab2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D23787782B73A1F9006790A6 /* Debug */,
+				D23787792B73A1F9006790A6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D23787742B73A1F9006790A6 /* Project object */;
+}
